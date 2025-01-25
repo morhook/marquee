@@ -1,4 +1,4 @@
-# banner
+# marquee
 an ascii banner with marquee effect
 
 # Screenshot
